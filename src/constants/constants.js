@@ -1,5 +1,14 @@
 export const projects = [
   {
+    title: "Memories",
+    description: "It is a blog app with basic CRUD fucntionality",
+    image: "/images/8.jpg",
+    tags: ["React", "Nodejs", "Express", "MongoDb"],
+    source: "https://google.com",
+    visit: "https://github.com/Anish358/Blog-app",
+    id: 3,
+  },
+  {
     title: "Hulu Clone",
     description: "This is clone of a Video streaming platform named HULU.",
     image: "/images/6.jpg",
@@ -27,16 +36,15 @@ export const projects = [
     visit: "https://google.com",
     id: 2,
   },
-  // {
-  //   title: "Unichat",
-  //   description:
-  //     "This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application",
-  //   image: "/images/4.jpg",
-  //   tags: ["React", "ChatEngine", "Firebase"],
-  //   source: "https://google.com",
-  //   visit: "https://google.com",
-  //   id: 3,
-  // },
+  {
+    title: "Covid Tracker",
+    description: "Apps that tracks the no of covid cases around the world.",
+    image: "/images/9.png",
+    tags: ["React", "Material-UI", "API"],
+    source: "https://google.com",
+    visit: "https://github.com/Anish358/Covid-Tracker",
+    id: 3,
+  },
 ];
 
 export const TimeLineData = [
