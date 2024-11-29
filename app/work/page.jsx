@@ -19,6 +19,24 @@ const projects = [
   {
     num: "01",
     category: "Full Satck",
+    title: "Threads",
+    description:
+      "A fully functional Threads Clone with Authentication, Backend and database Support with modern UI.",
+    stack: [
+      { name: "NextJS" },
+      { name: "TailwindCSS" },
+      { name: "Typescript" },
+      { name: "MongoDB" },
+      { name: "UploadThing" },
+      { name: "Clerk" },
+    ],
+    image: "/assets/work/image5.png",
+    live: "https://threads-zeta-eight.vercel.app/sign-in",
+    github: "https://github.com/Anish358/threads",
+  },
+  {
+    num: "02",
+    category: "Full Satck",
     title: "Vendify",
     description:
       "Comprehensive e-commerce platform supporting 1,000+ products, with features for product management, secure payment integration, and real-time data analytics",
@@ -37,7 +55,7 @@ const projects = [
     github: "https://github.com/Anish358/vendify",
   },
   {
-    num: "02",
+    num: "03",
     category: "Full Satck",
     title: "StoreIt",
     description:
@@ -52,7 +70,7 @@ const projects = [
     github: "https://github.com/Anish358/storeIt",
   },
   {
-    num: "03",
+    num: "04",
     category: "Full Satck",
     title: "Finanzo",
     description:
@@ -63,18 +81,18 @@ const projects = [
       { name: "Typescript" },
     ],
     image: "/assets/work/image3.png",
-    live: "https://github.com/Anish358/Finanzo",
+    live: "https://finanzo.vercel.app/",
     github: "https://github.com/Anish358/Finanzo",
   },
   {
-    num: "04",
+    num: "05",
     category: "Front-end",
     title: "Xora",
     description:
       "SaaS landing page with modern UI and mobile-first principles while",
     stack: [{ name: "ReactJS" }, { name: "TailwindCSS" }, { name: "Vite" }],
-    image: "/assets/work/image3.png",
-    live: "https://github.com/Anish358/Finanzo",
+    image: "/assets/work/image4.png",
+    live: "https://xora-anish.vercel.app/",
     github: "https://github.com/Anish358/xora",
   },
 ];
