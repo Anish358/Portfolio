@@ -49,7 +49,7 @@ const projects = [
       { name: "MongoDB" },
       { name: "SocketIO" },
     ],
-    image: "/assets/work/image5.png",
+    image: "/assets/work/Chatty.png",
     live: "https://chatty-bc4e.onrender.com/login",
     github: "https://github.com/Anish358/Chatty",
   },
