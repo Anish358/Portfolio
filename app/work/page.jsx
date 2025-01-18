@@ -34,8 +34,27 @@ const projects = [
     live: "https://threads-zeta-eight.vercel.app/sign-in",
     github: "https://github.com/Anish358/threads",
   },
+
   {
     num: "02",
+    category: "Full Satck",
+    title: "Chatty",
+    description: "Full Stack Realtime Chat Application",
+    stack: [
+      { name: "ReactJS" },
+      { name: "TailwindCSS" },
+      { name: "Typescript" },
+      { name: "NodeJS" },
+      { name: "ExpressJS" },
+      { name: "MongoDB" },
+      { name: "SocketIO" },
+    ],
+    image: "/assets/work/image5.png",
+    live: "https://chatty-bc4e.onrender.com/login",
+    github: "https://github.com/Anish358/Chatty",
+  },
+  {
+    num: "03",
     category: "Full Satck",
     title: "Vendify",
     description:
@@ -55,7 +74,7 @@ const projects = [
     github: "https://github.com/Anish358/vendify",
   },
   {
-    num: "03",
+    num: "04",
     category: "Full Satck",
     title: "StoreIt",
     description:
@@ -70,7 +89,7 @@ const projects = [
     github: "https://github.com/Anish358/storeIt",
   },
   {
-    num: "04",
+    num: "05",
     category: "Full Satck",
     title: "Finanzo",
     description:
@@ -85,7 +104,7 @@ const projects = [
     github: "https://github.com/Anish358/Finanzo",
   },
   {
-    num: "05",
+    num: "06",
     category: "Front-end",
     title: "Xora",
     description:
