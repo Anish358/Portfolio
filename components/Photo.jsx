@@ -19,10 +19,10 @@ const Photo = () => {
             opacity: 1,
             transition: { delay: 2, duration: 0.4, ease: "easeIn" },
           }}
-          className="w-[298px] h-[298px] xl:w-[498px] xl:h-[498px] mix-blend-lighten absolute"
+          className="w-[298px]  h-[298px] xl:w-[498px] xl:h-[498px] mix-blend-lighten absolute"
         >
           <Image
-            src="/assets/photo.png"
+            src="/assets/photo1.png"
             priority
             quality={100}
             fill
